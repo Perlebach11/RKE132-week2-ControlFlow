@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34622.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "UseAgeValidation", "UseAgeValidation\UseAgeValidation.csproj", "{DC842AA4-09E2-483E-B9BC-FF47A4E50C77}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UserAgeValidation2", "UserAgeValidation2\UserAgeValidation2.csproj", "{DA62CDF0-3FCC-492F-827A-8FADE9F23D97}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DC842AA4-09E2-483E-B9BC-FF47A4E50C77}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DC842AA4-09E2-483E-B9BC-FF47A4E50C77}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DC842AA4-09E2-483E-B9BC-FF47A4E50C77}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DC842AA4-09E2-483E-B9BC-FF47A4E50C77}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DA62CDF0-3FCC-492F-827A-8FADE9F23D97}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DA62CDF0-3FCC-492F-827A-8FADE9F23D97}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DA62CDF0-3FCC-492F-827A-8FADE9F23D97}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DA62CDF0-3FCC-492F-827A-8FADE9F23D97}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {73DAD890-8145-487C-9A8D-41948B67D05D}
+	EndGlobalSection
+EndGlobal
